@@ -1,2 +1,2 @@
 # AppPlayMusic
-<img src=“./app.png”>
+<img src=“https://github.com/MinhHuynh97/AppPlayMusic/app.png”>
